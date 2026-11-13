@@ -3,6 +3,7 @@ markdown
 **An Inversion Framework for Steady-State Cosmology, Non-Singular Black Holes, and Mechanical Mass Generation**
 *Maintained by the Academic Research Group in Mathematical Physics / Stichting Cosmic Field Paradigm (2026)*
 ---
+[![DOI](https://zenodo.org)](https://doi.org)
 
 
 ## 🌌 Overview
