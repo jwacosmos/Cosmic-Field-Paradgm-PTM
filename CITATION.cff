@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Als je dit project gebruikt, citeer het dan als volgt."
+title: "Cosmic Field Paradigm"
+authors:
+  - family-names: "Zwart”
+    given-names: "Janwillem"
+doi: 10.5281/zenodo.xxxxxxx
+url: "https://github.com" [![DOI](https://zenodo.org)](https://doi.org)
