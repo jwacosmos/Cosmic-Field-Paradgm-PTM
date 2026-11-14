@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Als je dit project gebruikt, citeer het dan als volgt."
 title: "Substrate"
 authors:
-  - family-names: "Zwart”
+  - family-names: "Zwart"
     given-names: "Janwillem"
-doi: 10.5281/zenodo.xxxxxxx
-url: https://github.com/jwacosmos/Cosmic_Field_Paradigm_PTM.git
+doi: 10.5281/zenodo.1234567
+url: "https://github.com/jwacosmos/Cosmic_Field_Paradigm_PTM"
