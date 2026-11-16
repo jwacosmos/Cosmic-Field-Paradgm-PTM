@@ -5,6 +5,24 @@ markdown
 ---
 [![DOI](https://zenodo.org)](https://doi.org)
 
+## Citatie
+Als je dit project gebruikt, citeer het dan als volgt:
+
+> Zwart, J. *Substrate*. Zenodo. https://doi.org
+
+Of gebruik de volgende BibTeX-code:
+
+```bibtex
+@software{zwart_substrate,
+  author       = {Zwart, Janwillem},
+  title        = {Substrate},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24284356},
+  url          = {https://doi.org}
+}
+```
+
+
 
 ## 🌌 Overview
 
